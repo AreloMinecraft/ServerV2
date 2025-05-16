@@ -2212,6 +2212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-16 19:09:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-16 16:10:29 +0000"
