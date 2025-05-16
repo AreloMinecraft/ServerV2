@@ -15,6 +15,7 @@
       "minecraft:river": "2025-05-16 05:22:05 +0000",
       "minecraft:stony_shore": "2025-05-16 05:12:32 +0000",
       "minecraft:forest": "2025-05-16 16:29:31 +0000",
+      "minecraft:frozen_peaks": "2025-05-16 17:50:22 +0000",
       "minecraft:savanna": "2025-05-15 02:40:31 +0000",
       "minecraft:plains": "2025-05-16 05:12:34 +0000"
     },
@@ -2096,6 +2097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-16 17:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-16 15:58:21 +0000"
@@ -2204,6 +2211,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-16 17:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-16 15:58:21 +0000"
@@ -2297,6 +2310,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-05-16 15:38:05 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/sapphire_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/sapphire]_ingot": "2025-05-16 17:54:09 +0000"
     },
     "done": true
   },
