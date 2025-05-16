@@ -2020,3 +2020,183 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [16May2025 05:10:05.267] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [santiago0729]
 [16May2025 05:10:08.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Taokaka> asi no se complica en la mina
 [16May2025 05:10:35.688] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[16May2025 05:11:44.119] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [santiago0729]
+[16May2025 05:13:36.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:36.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:36.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:36.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:36.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:36.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:36.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:36.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:36.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:37.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:38.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:38.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:38.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:38.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:38.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:38.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:38.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:38.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:38.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka was kicked for floating too long!
+[16May2025 05:13:45.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Disconnected
+[16May2025 05:13:45.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
+[16May2025 05:13:45.826] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
+[16May2025 05:13:45.829] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
+[16May2025 05:14:02.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiago0729 has made the advancement [Monster Hunter]
+[16May2025 05:14:35.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:52004] logged in with entity id 2102 at (60.42752943407805, 59.15552175294311, 46.98343713612594)
+[16May2025 05:14:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
+[16May2025 05:14:35.819] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
+[16May2025 05:14:35.819] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
+[16May2025 05:14:35.825] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
+[16May2025 05:14:35.825] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[16May2025 05:14:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> que te paso?
+[16May2025 05:14:48.988] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[16May2025 05:14:56.497] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[16May2025 05:15:03.987] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[16May2025 05:15:35.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Timed out
+[16May2025 05:15:35.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
+[16May2025 05:15:35.271] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
+[16May2025 05:15:35.271] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
+[16May2025 05:16:26.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[16May2025 05:16:26.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[16May2025 05:16:26.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[16May2025 05:16:26.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[16May2025 05:16:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[16May2025 05:16:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[16May2025 05:16:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[16May2025 05:16:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[16May2025 05:16:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[16May2025 05:16:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[16May2025 05:16:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[16May2025 05:16:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[16May2025 05:16:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[16May2025 05:16:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[16May2025 05:16:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[16May2025 05:16:26.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[16May2025 05:16:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[16May2025 05:16:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[16May2025 05:16:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[16May2025 05:16:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[16May2025 05:16:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[16May2025 05:16:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[16May2025 05:16:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tfEnforcedProgression|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[16May2025 05:16:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[16May2025 05:16:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[16May2025 05:16:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[16May2025 05:16:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[16May2025 05:16:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[16May2025 05:16:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[16May2025 05:16:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[16May2025 05:16:26.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[16May2025 05:16:26.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[16May2025 05:16:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[16May2025 05:16:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[16May2025 05:16:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[16May2025 05:16:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[16May2025 05:16:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[16May2025 05:16:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[16May2025 05:16:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[16May2025 05:16:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[16May2025 05:16:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[16May2025 05:16:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[16May2025 05:16:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[16May2025 05:16:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[16May2025 05:16:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[16May2025 05:16:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[16May2025 05:16:26.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[16May2025 05:16:26.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[16May2025 05:16:26.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[16May2025 05:16:26.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[16May2025 05:16:26.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[16May2025 05:16:26.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[16May2025 05:16:26.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[16May2025 05:16:26.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[16May2025 05:16:26.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[16May2025 05:16:26.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[16May2025 05:16:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[16May2025 05:16:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[16May2025 05:16:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /balm (dev|export)
+[16May2025 05:16:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bookshelf (font|hand)
+[16May2025 05:16:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /configure_update <id> (list|inspect|accept|reject)
+[16May2025 05:16:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /twilightforest [center|conquer|genbook|info|biomepng|shield]
+[16May2025 05:16:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tf -> twilightforest
+[16May2025 05:16:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tffeature -> twilightforest
+[16May2025 05:16:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[16May2025 05:16:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[16May2025 05:16:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tb (access|restore|remove|clear|unpack)
+[16May2025 05:16:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /parcool limitation (get|set|enable|disable|delete)
+[16May2025 05:16:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restore <target> <death_id> (replace|add)
+[16May2025 05:16:26.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restoreinventory -> restore
+[16May2025 05:16:26.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /voicechat [help|test|invite|join|leave]
+[16May2025 05:17:01.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] probando el comando
+[16May2025 05:17:05.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> si sirve
+[16May2025 05:17:31.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] <probando el comando leyo el mensaje?>
+[16May2025 05:17:39.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> cual de los dos?
+[16May2025 05:18:22.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no ninguno estoy hablando desde la maquina virtual mientras carga la webada esta en mi pc
+[16May2025 05:18:29.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> malo de meirda
+[16May2025 05:18:37.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> porque no vale ni la pena escribir bien
+[16May2025 05:18:43.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:52090] logged in with entity id 2795 at (60.42752943407805, 59.15552175294311, 46.98343713612594)
+[16May2025 05:18:43.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
+[16May2025 05:18:43.303] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
+[16May2025 05:18:43.304] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
+[16May2025 05:18:43.304] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
+[16May2025 05:18:43.304] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[16May2025 05:18:50.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[16May2025 05:18:51.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[16May2025 05:18:51.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
+[16May2025 05:18:55.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no man mi internet esta lento desde las 7
+[16May2025 05:19:09.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tengo la sospecha que alguien esta colgado
+[16May2025 05:19:13.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> de que?
+[16May2025 05:19:18.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Taokaka> de mi wifi
+[16May2025 05:19:18.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiago0729 has made the advancement [Acquire Hardware]
+[16May2025 05:19:38.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiago0729 has made the advancement [Isn't It Iron Pick]
+[16May2025 05:19:48.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiago0729 has made the advancement [Suit Up]
+[16May2025 05:20:08.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> cambiale la contraseña
+[16May2025 05:20:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka was doomed to fall
+[16May2025 05:20:20.519] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[16May2025 05:20:24.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> JAJAJA
+[16May2025 05:20:24.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Taokaka> wth
+[16May2025 05:20:26.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> JAJAJSDa
+[16May2025 05:20:27.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <santiago0729> JASJDAS
