@@ -1031,6 +1031,7 @@
       "cooked_porkchop": "2025-05-16 05:27:55 +0000",
       "cooked_mutton": "2025-05-16 05:54:49 +0000",
       "cooked_cod": "2025-05-16 05:41:45 +0000",
+      "cooked_chicken": "2025-05-16 15:48:45 +0000",
       "cooked_salmon": "2025-05-16 05:47:38 +0000"
     },
     "done": false
@@ -1815,6 +1816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-16 15:53:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-16 15:25:25 +0000"
@@ -2013,6 +2020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-16 15:53:20 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-05-16 15:43:10 +0000"
@@ -2046,6 +2059,12 @@
   "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-16 15:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-16 15:53:20 +0000"
     },
     "done": true
   },
