@@ -2044,3 +2044,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17May2025 02:17:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
 [17May2025 02:17:52.107] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
 [17May2025 02:17:52.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
+[17May2025 02:19:01.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:60235] logged in with entity id 18407 at (-8.5, 86.0, 5.5)
+[17May2025 02:19:01.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
+[17May2025 02:19:01.478] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
+[17May2025 02:19:01.479] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
+[17May2025 02:19:01.509] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
+[17May2025 02:19:01.509] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 02:19:03.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[17May2025 02:19:15.298] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 02:19:22.792] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 02:19:25.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[17May2025 02:19:26.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[17May2025 02:19:26.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
+[17May2025 02:23:33.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Disconnected
+[17May2025 02:23:33.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
+[17May2025 02:23:33.510] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
+[17May2025 02:23:33.511] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
+[17May2025 02:23:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17May2025 02:23:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17May2025 02:23:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17May2025 02:23:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17May2025 02:23:42.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17May2025 02:23:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[17May2025 02:23:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17May2025 02:23:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[17May2025 02:23:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[17May2025 02:23:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[17May2025 02:23:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17May2025 02:23:42.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
