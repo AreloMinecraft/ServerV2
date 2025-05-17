@@ -1039,7 +1039,8 @@
       "bread": "2025-05-16 18:13:37 +0000",
       "beetroot": "2025-05-16 23:43:38 +0000",
       "cooked_chicken": "2025-05-16 15:48:45 +0000",
-      "cooked_salmon": "2025-05-16 05:47:38 +0000"
+      "cooked_salmon": "2025-05-16 05:47:38 +0000",
+      "carrot": "2025-05-17 00:32:34 +0000"
     },
     "done": false
   },
@@ -3131,9 +3132,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-17 00:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-17 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-17 00:32:14 +0000"
     },
     "done": true
   },
