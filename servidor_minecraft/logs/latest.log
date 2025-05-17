@@ -2034,3 +2034,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17May2025 01:53:45.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
 [17May2025 01:53:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: time ser day<--[HERE]
 [17May2025 01:53:51.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[17May2025 02:17:05.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka was slain by Zombie
+[17May2025 02:17:05.616] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Taokaka with unique ID travelersbackpack.standard_17.05.2025-02.17.05.dat
+[17May2025 02:17:05.618] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 241 Y: 77.9375 Z: -313
+[17May2025 02:17:29.161] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 02:17:36.584] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 02:17:44.092] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 02:17:52.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Timed out
+[17May2025 02:17:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
+[17May2025 02:17:52.107] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
+[17May2025 02:17:52.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
