@@ -2009,3 +2009,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17May2025 01:48:27.997] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
 [17May2025 01:48:27.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
 [17May2025 01:48:27.998] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 01:48:42.202] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 01:48:48.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
+[17May2025 01:48:49.717] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 01:48:57.212] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 01:49:03.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[17May2025 01:49:04.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[17May2025 01:49:04.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
+[17May2025 01:49:13.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Timed out
+[17May2025 01:49:13.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
+[17May2025 01:49:13.267] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
+[17May2025 01:49:13.268] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
+[17May2025 01:49:30.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:60132] logged in with entity id 14620 at (196.0489297940386, 82.0, -287.8280416548356)
+[17May2025 01:49:30.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
+[17May2025 01:49:30.915] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
+[17May2025 01:49:30.916] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
+[17May2025 01:49:30.920] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
+[17May2025 01:49:30.921] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 01:49:31.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[17May2025 01:49:37.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[17May2025 01:49:38.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
+[17May2025 01:49:38.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
+[17May2025 01:51:11.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
+[17May2025 01:53:45.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[17May2025 01:53:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: time ser day<--[HERE]
+[17May2025 01:53:51.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
