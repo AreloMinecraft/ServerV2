@@ -3035,27 +3035,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_potato": "2025-05-16 22:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-05-16 23:28:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-05-16 22:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-16 23:04:40 +0000"
+      "has_carrot": "2025-05-16 22:50:29 +0000"
     },
     "done": true
   },
@@ -3071,21 +3053,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "travelersbackpack:recipes/misc/hay": {
     "criteria": {
-      "has_oxeye_daisy": "2025-05-16 23:08:48 +0000"
+      "has_wheat": "2025-05-16 22:51:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_azure_bluet": "2025-05-16 23:04:51 +0000"
+      "has_potato": "2025-05-16 22:51:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_beetroot": "2025-05-16 23:28:55 +0000"
+      "has_potato": "2025-05-16 22:51:23 +0000"
     },
     "done": true
   },
@@ -3095,15 +3077,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-05-16 22:50:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-16 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-16 23:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-16 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-16 23:08:48 +0000"
     },
     "done": true
   },
@@ -3113,9 +3107,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/hay": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_wheat": "2025-05-16 22:51:00 +0000"
+      "has_beetroot": "2025-05-16 23:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-16 23:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-17 00:13:21 +0000"
     },
     "done": true
   },
