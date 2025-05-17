@@ -1996,3 +1996,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [17May2025 00:36:32.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1396, l='ServerLevel[world]', x=170.43, y=88.75, z=-290.30] died, message: 'Leatherworker was slain by Zombie'
 [17May2025 00:53:38.347] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
 [17May2025 01:25:46.671] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
+[17May2025 01:47:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17May2025 01:47:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: set time night<--[HERE]
+[17May2025 01:47:41.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Disconnected
+[17May2025 01:47:41.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
+[17May2025 01:47:41.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
+[17May2025 01:47:41.013] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
+[17May2025 01:47:41.063] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17May2025 01:48:27.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:60129] logged in with entity id 14251 at (196.0489297940386, 82.0, -287.8280416548356)
+[17May2025 01:48:27.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
+[17May2025 01:48:27.996] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
+[17May2025 01:48:27.997] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
+[17May2025 01:48:27.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
+[17May2025 01:48:27.998] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
