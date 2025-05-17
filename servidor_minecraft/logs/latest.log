@@ -1,18 +1,18 @@
-[17May2025 00:07:51.759] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[17May2025 00:07:51.766] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[17May2025 00:07:53.056] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[17May2025 00:07:53.126] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerV2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[17May2025 00:07:54.085] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerV2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[17May2025 00:07:54.087] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerV2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17May2025 00:07:54.089] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerV2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17May2025 00:07:54.090] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerV2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17May2025 00:07:54.342] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[17May2025 00:07:57.256] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[17May2025 00:07:57.413] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[17May2025 00:07:57.416] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[17May2025 00:07:57.906] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17May2025 00:07:57.916] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 92 options available, 0 override(s) found
-[17May2025 00:07:58.003] [main/INFO] [Puzzles Lib/]: Loading 47 mods:
+[17May2025 12:33:57.686] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[17May2025 12:33:57.691] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[17May2025 12:34:00.723] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17May2025 12:34:00.783] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerV2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[17May2025 12:34:01.272] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerV2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 12:34:01.275] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerV2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 12:34:01.276] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerV2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 12:34:01.277] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerV2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 12:34:01.503] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[17May2025 12:34:04.763] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17May2025 12:34:04.919] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[17May2025 12:34:04.922] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17May2025 12:34:05.165] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2025 12:34:05.233] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 92 options available, 0 override(s) found
+[17May2025 12:34:05.402] [main/INFO] [Puzzles Lib/]: Loading 47 mods:
 	- alexscaves 2.0.2
 	- allthemodium 2.5.5
 	- alltheores 2.2.4
@@ -61,137 +61,136 @@
 	- w2w2 1.0
 	- waystones 14.1.11
 	- xaerominimap 25.2.0
-[17May2025 00:07:59.772] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[17May2025 00:07:59.775] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[17May2025 00:07:59.775] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[17May2025 00:07:59.777] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[17May2025 00:07:59.778] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[17May2025 00:07:59.778] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[17May2025 00:07:59.780] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[17May2025 00:07:59.780] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[17May2025 00:08:00.277] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17May2025 00:08:07.622] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[17May2025 12:34:07.356] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[17May2025 12:34:07.357] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[17May2025 12:34:07.357] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[17May2025 12:34:07.359] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[17May2025 12:34:07.359] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[17May2025 12:34:07.360] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[17May2025 12:34:07.361] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[17May2025 12:34:07.362] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[17May2025 12:34:07.622] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17May2025 12:34:14.706] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[17May2025 00:08:08.330] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[17May2025 00:08:08.363] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[17May2025 00:08:08.423] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
-[17May2025 00:08:08.565] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[17May2025 00:08:08.566] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[17May2025 00:08:08.566] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[17May2025 00:08:08.566] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[17May2025 00:08:08.568] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[17May2025 00:08:08.568] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[17May2025 00:08:08.568] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[17May2025 00:08:08.731] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[17May2025 00:08:08.732] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[17May2025 00:08:10.211] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[17May2025 00:08:10.446] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[17May2025 00:08:10.462] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for bettertridents:main
-[17May2025 00:08:10.495] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[17May2025 00:08:10.536] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[17May2025 00:08:12.298] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[17May2025 00:08:12.401] [main/INFO] [Puzzles Lib/]: Loading common config for bettertridents
-[17May2025 00:08:12.402] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for bettertridents
-[17May2025 00:08:12.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
-[17May2025 00:08:12.510] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[17May2025 00:08:12.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: OUTDATED Current: 8.0.6 Target: 8.0.7
-[17May2025 00:08:12.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[17May2025 00:08:12.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.35 Target: null
-[17May2025 00:08:12.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[17May2025 00:08:12.579] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[17May2025 00:08:12.580] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[17May2025 00:08:12.580] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[17May2025 00:08:12.580] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[17May2025 00:08:12.581] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[17May2025 00:08:12.581] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[17May2025 00:08:12.582] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[17May2025 00:08:12.582] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[17May2025 00:08:12.583] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[17May2025 00:08:12.584] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[17May2025 00:08:12.627] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[17May2025 00:08:12.649] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[17May2025 00:08:12.649] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[17May2025 00:08:12.650] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[17May2025 00:08:12.650] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[17May2025 00:08:12.702] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[17May2025 00:08:12.702] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[17May2025 00:08:12.703] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[17May2025 00:08:12.704] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[17May2025 00:08:12.761] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[17May2025 00:08:12.766] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[17May2025 00:08:13.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[17May2025 00:08:13.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[17May2025 00:08:13.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[17May2025 00:08:13.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[17May2025 00:08:13.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[17May2025 00:08:13.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[17May2025 00:08:13.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[17May2025 00:08:13.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[17May2025 00:08:13.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
-[17May2025 00:08:13.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[17May2025 00:08:14.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[17May2025 00:08:14.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[17May2025 00:08:14.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.23 Target: null
-[17May2025 00:08:14.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[17May2025 00:08:14.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[17May2025 00:08:14.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettertridents] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/bettertridents.json
-[17May2025 00:08:14.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettertridents] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[17May2025 00:08:14.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[17May2025 00:08:14.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[17May2025 00:08:14.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [nebs] Starting version check at https://infernalstudios.org/api/mods/nekosenchantedbooks/forge
-[17May2025 00:08:14.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [nebs] Found status: AHEAD Current: 2.0.3 Target: null
-[17May2025 00:08:16.881] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17May2025 00:08:19.441] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerV2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
-[17May2025 00:08:19.442] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerV2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
-[17May2025 00:08:21.189] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/platinum as it is missing following references: alltheores:dirty_platinum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.191] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/iridium as it is missing following references: alltheores:iridium_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.193] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/zinc as it is missing following references: alltheores:zinc_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.194] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/zinc as it is missing following references: alltheores:zinc_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.196] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/nickel as it is missing following references: alltheores:nickel_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.200] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/platinum as it is missing following references: alltheores:platinum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.201] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals as it is missing following references: alltheores:aluminum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+[17May2025 12:34:15.404] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[17May2025 12:34:15.446] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[17May2025 12:34:15.518] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[17May2025 12:34:15.664] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[17May2025 12:34:15.670] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[17May2025 12:34:15.670] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[17May2025 12:34:15.670] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[17May2025 12:34:15.671] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[17May2025 12:34:15.671] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[17May2025 12:34:15.671] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[17May2025 12:34:15.854] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[17May2025 12:34:15.854] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[17May2025 12:34:17.685] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[17May2025 12:34:18.022] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for bettertridents:main
+[17May2025 12:34:18.067] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[17May2025 12:34:18.131] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[17May2025 12:34:18.175] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[17May2025 12:34:20.513] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[17May2025 12:34:21.010] [main/INFO] [Puzzles Lib/]: Loading common config for bettertridents
+[17May2025 12:34:21.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[17May2025 12:34:21.116] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[17May2025 12:34:21.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: OUTDATED Current: 8.0.6 Target: 8.0.7
+[17May2025 12:34:21.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17May2025 12:34:21.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.35 Target: null
+[17May2025 12:34:21.333] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[17May2025 12:34:21.333] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[17May2025 12:34:21.334] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[17May2025 12:34:21.334] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[17May2025 12:34:21.334] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[17May2025 12:34:21.341] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[17May2025 12:34:21.341] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[17May2025 12:34:21.341] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[17May2025 12:34:21.342] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[17May2025 12:34:21.344] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[17May2025 12:34:21.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[17May2025 12:34:21.399] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[17May2025 12:34:21.416] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[17May2025 12:34:21.416] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[17May2025 12:34:21.417] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[17May2025 12:34:21.426] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[17May2025 12:34:21.481] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[17May2025 12:34:21.481] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[17May2025 12:34:21.482] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[17May2025 12:34:21.482] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[17May2025 12:34:21.555] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[17May2025 12:34:21.559] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[17May2025 12:34:21.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[17May2025 12:34:21.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[17May2025 12:34:21.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[17May2025 12:34:21.819] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17May2025 12:34:21.956] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[17May2025 12:34:21.956] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[17May2025 12:34:22.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[17May2025 12:34:22.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[17May2025 12:34:22.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
+[17May2025 12:34:22.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[17May2025 12:34:22.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[17May2025 12:34:22.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[17May2025 12:34:22.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.23 Target: null
+[17May2025 12:34:22.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[17May2025 12:34:22.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[17May2025 12:34:22.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettertridents] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/bettertridents.json
+[17May2025 12:34:22.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettertridents] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[17May2025 12:34:22.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[17May2025 12:34:22.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[17May2025 12:34:22.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [nebs] Starting version check at https://infernalstudios.org/api/mods/nekosenchantedbooks/forge
+[17May2025 12:34:23.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [nebs] Found status: AHEAD Current: 2.0.3 Target: null
+[17May2025 12:34:26.640] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17May2025 12:34:30.657] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerV2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[17May2025 12:34:30.657] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerV2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[17May2025 12:34:33.179] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/platinum as it is missing following references: alltheores:dirty_platinum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.181] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/iridium as it is missing following references: alltheores:iridium_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.184] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/zinc as it is missing following references: alltheores:zinc_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.185] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/zinc as it is missing following references: alltheores:zinc_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.186] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/nickel as it is missing following references: alltheores:nickel_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.186] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/platinum as it is missing following references: alltheores:platinum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.187] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals as it is missing following references: alltheores:aluminum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:nickel_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:platinum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:silver_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:zinc_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:iridium_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.204] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/platinum as it is missing following references: alltheores:platinum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.207] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards as it is missing following references: alltheores:aluminum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+[17May2025 12:34:33.191] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/platinum as it is missing following references: alltheores:platinum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.192] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards as it is missing following references: alltheores:aluminum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:nickel_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:platinum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:silver_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:zinc_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:iridium_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.208] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/aluminum as it is missing following references: alltheores:aluminum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.209] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/silver as it is missing following references: alltheores:silver_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.214] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/silver as it is missing following references: alltheores:silver_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.217] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/iridium as it is missing following references: alltheores:iridium_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.218] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps as it is missing following references: alltheores:aluminum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+[17May2025 12:34:33.193] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/aluminum as it is missing following references: alltheores:aluminum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.193] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/silver as it is missing following references: alltheores:silver_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.196] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/silver as it is missing following references: alltheores:silver_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.196] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/iridium as it is missing following references: alltheores:iridium_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.197] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps as it is missing following references: alltheores:aluminum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:nickel_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:platinum_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:silver_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:zinc_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:iridium_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.219] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/nickel as it is missing following references: alltheores:dirty_nickel_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.220] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/aluminum as it is missing following references: alltheores:aluminum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.221] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/zinc as it is missing following references: alltheores:dirty_zinc_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.222] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/aluminum as it is missing following references: alltheores:aluminum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.225] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/aluminum as it is missing following references: alltheores:dirty_aluminum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.226] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/silver as it is missing following references: alltheores:silver_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.227] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/nickel as it is missing following references: alltheores:nickel_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.227] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/iridium as it is missing following references: alltheores:iridium_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.228] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/nickel as it is missing following references: alltheores:nickel_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.228] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/silver as it is missing following references: alltheores:dirty_silver_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.228] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/zinc as it is missing following references: alltheores:zinc_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.230] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/iridium as it is missing following references: alltheores:dirty_iridium_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.231] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/platinum as it is missing following references: alltheores:platinum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:21.232] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts as it is missing following references: alltheores:dirty_aluminum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
+[17May2025 12:34:33.197] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/nickel as it is missing following references: alltheores:dirty_nickel_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.198] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/aluminum as it is missing following references: alltheores:aluminum_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.198] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/zinc as it is missing following references: alltheores:dirty_zinc_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.199] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/aluminum as it is missing following references: alltheores:aluminum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.200] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/aluminum as it is missing following references: alltheores:dirty_aluminum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.200] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/silver as it is missing following references: alltheores:silver_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.202] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/nickel as it is missing following references: alltheores:nickel_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.204] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/iridium as it is missing following references: alltheores:iridium_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.204] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:clumps/nickel as it is missing following references: alltheores:nickel_clump (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.204] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/silver as it is missing following references: alltheores:dirty_silver_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.205] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:crystals/zinc as it is missing following references: alltheores:zinc_crystal (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.208] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts/iridium as it is missing following references: alltheores:dirty_iridium_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.208] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:shards/platinum as it is missing following references: alltheores:platinum_shard (from alltheores-1.20.1-47.1.3-2.2.4.jar)
+[17May2025 12:34:33.209] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mekanism:dirty_dusts as it is missing following references: alltheores:dirty_aluminum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:dirty_nickel_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:dirty_platinum_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:dirty_silver_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:dirty_zinc_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar), 
 	alltheores:dirty_iridium_dust (from alltheores-1.20.1-47.1.3-2.2.4.jar)
-[17May2025 00:08:22.055] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+[17May2025 12:34:34.263] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -243,7 +242,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[17May2025 00:08:22.164] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_block
+[17May2025 12:34:34.410] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -272,7 +271,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.172] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_ore
+[17May2025 12:34:34.424] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -301,8 +300,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.176] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[17May2025 00:08:22.177] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_ore
+[17May2025 12:34:34.431] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[17May2025 12:34:34.432] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -331,7 +330,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.180] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe allthemodium:main/atm_book
+[17May2025 12:34:34.434] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe allthemodium:main/atm_book
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -364,7 +363,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.191] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/nether_from_raw
+[17May2025 12:34:34.443] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/nether_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -393,7 +392,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.200] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/from_raw_ore
+[17May2025 12:34:34.449] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -422,7 +421,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.201] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_block
+[17May2025 12:34:34.452] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -451,7 +450,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.206] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/from_raw
+[17May2025 12:34:34.457] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -480,7 +479,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.214] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty/from_raw_block
+[17May2025 12:34:34.473] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -509,7 +508,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.215] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_ore
+[17May2025 12:34:34.479] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -538,7 +537,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.216] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_block
+[17May2025 12:34:34.485] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -567,7 +566,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.218] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_raw_ore
+[17May2025 12:34:34.488] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -596,7 +595,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.220] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/dirty/from_raw_block
+[17May2025 12:34:34.492] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -625,7 +624,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.222] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_ore
+[17May2025 12:34:34.495] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -654,7 +653,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.225] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_block
+[17May2025 12:34:34.500] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -683,7 +682,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.226] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_block
+[17May2025 12:34:34.502] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -712,7 +711,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.228] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/from_raw_ore
+[17May2025 12:34:34.506] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/slurry/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -741,8 +740,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.231] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[17May2025 00:08:22.232] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_ore
+[17May2025 12:34:34.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[17May2025 12:34:34.512] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -771,7 +770,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.237] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/nether_from_raw
+[17May2025 12:34:34.516] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/nether_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -800,7 +799,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.241] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_ore
+[17May2025 12:34:34.523] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -829,7 +828,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.247] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_raw_block
+[17May2025 12:34:34.530] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -858,8 +857,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.250] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[17May2025 00:08:22.253] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/slurry/dirty_from_raw
+[17May2025 12:34:34.532] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[17May2025 12:34:34.538] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/slurry/dirty_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -888,7 +887,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.256] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/shard/from_raw_ore
+[17May2025 12:34:34.541] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -917,7 +916,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.260] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/from_raw
+[17May2025 12:34:34.546] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -946,7 +945,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.261] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_block
+[17May2025 12:34:34.548] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -975,7 +974,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.263] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
+[17May2025 12:34:34.553] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
@@ -1008,7 +1007,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.264] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty/from_raw_block
+[17May2025 12:34:34.556] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1037,7 +1036,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.267] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_block
+[17May2025 12:34:34.564] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1066,8 +1065,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.776] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[17May2025 00:08:22.778] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_ore
+[17May2025 12:34:34.804] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[17May2025 12:34:34.813] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1096,7 +1095,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.780] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/shard/from_raw_block
+[17May2025 12:34:34.818] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1125,7 +1124,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.782] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_ore
+[17May2025 12:34:34.822] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1154,7 +1153,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.784] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_block
+[17May2025 12:34:34.827] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1183,7 +1182,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.788] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_shard
+[17May2025 12:34:34.831] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/clump/from_shard
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1212,7 +1211,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.792] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_ore
+[17May2025 12:34:34.834] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1241,7 +1240,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.796] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_block
+[17May2025 12:34:34.836] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1270,7 +1269,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.800] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_ore
+[17May2025 12:34:34.841] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1299,7 +1298,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.801] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_ore
+[17May2025 12:34:34.845] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1328,7 +1327,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.805] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_shard
+[17May2025 12:34:34.852] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/clump/from_shard
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1357,7 +1356,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_block
+[17May2025 12:34:34.858] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1386,7 +1385,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.808] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_ore
+[17May2025 12:34:34.869] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1415,7 +1414,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.810] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_block
+[17May2025 12:34:34.878] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1444,7 +1443,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.811] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/deepslate_from_raw
+[17May2025 12:34:34.880] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/ore/deepslate_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1473,7 +1472,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.812] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_ore
+[17May2025 12:34:34.881] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/clump/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1502,7 +1501,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.814] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/slurry/dirty/from_raw_block
+[17May2025 12:34:34.883] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/iridium/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1531,7 +1530,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.818] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_block
+[17May2025 12:34:34.892] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1560,7 +1559,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.821] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_block
+[17May2025 12:34:34.897] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1589,7 +1588,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.823] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty_from_raw
+[17May2025 12:34:34.901] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/slurry/dirty_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1618,7 +1617,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.824] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_ore
+[17May2025 12:34:34.904] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/dust/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1647,7 +1646,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.825] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty/from_raw_block
+[17May2025 12:34:34.907] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1676,7 +1675,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.827] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_block
+[17May2025 12:34:34.910] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1705,7 +1704,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:22.839] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_block
+[17May2025 12:34:34.922] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/dust/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1734,7 +1733,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:23.330] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty_from_raw
+[17May2025 12:34:35.036] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/slurry/dirty_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1763,7 +1762,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:23.331] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty_from_raw
+[17May2025 12:34:35.038] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/nickel/slurry/dirty_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1792,7 +1791,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:23.333] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/deepslate_from_raw
+[17May2025 12:34:35.043] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/ore/deepslate_from_raw
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1821,7 +1820,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:23.335] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/dirty/from_raw_block
+[17May2025 12:34:35.047] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/silver/slurry/dirty/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:dissolution'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1850,8 +1849,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:23.337] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[17May2025 00:08:23.337] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_ore
+[17May2025 12:34:35.050] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[17May2025 12:34:35.051] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/zinc/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1880,9 +1879,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:23.340] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[17May2025 00:08:23.341] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[17May2025 00:08:23.343] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_block
+[17May2025 12:34:35.058] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[17May2025 12:34:35.059] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[17May2025 12:34:35.063] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/platinum/clump/from_raw_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1911,7 +1910,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:23.347] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_ore
+[17May2025 12:34:35.071] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alltheores:mek_processing/aluminum/shard/from_raw_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1940,142 +1939,162 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[17May2025 00:08:23.348] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[17May2025 00:08:23.352] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[17May2025 00:08:23.546] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2843 advancements
-[17May2025 00:08:23.555] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[17May2025 00:08:25.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[17May2025 00:08:25.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[17May2025 00:08:25.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[17May2025 00:08:25.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[17May2025 00:08:25.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[17May2025 00:08:25.994] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[17May2025 00:08:26.064] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17May2025 00:08:26.065] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[17May2025 00:08:26.065] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17May2025 00:08:26.065] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[17May2025 00:08:26.081] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
-[17May2025 00:08:26.082] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
-[17May2025 00:08:26.083] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
-[17May2025 00:08:26.097] [Server thread/INFO] [Puzzles Lib/]: Loading server config for bettertridents
-[17May2025 00:08:26.098] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for bettertridents
-[17May2025 00:08:26.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[17May2025 00:08:29.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[17May2025 00:08:32.943] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:32.975] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:32.986] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:32.993] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:33.003] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:33.025] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:33.034] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:33.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:33.818] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:34.308] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:34.807] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17May2025 00:08:35.307] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[17May2025 00:08:35.811] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[17May2025 00:08:35.933] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6126 ms
-[17May2025 00:08:35.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.856s)! For help, type "help"
-[17May2025 00:08:35.979] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[17May2025 00:08:35.979] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
-[17May2025 00:08:35.982] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[17May2025 00:08:35.982] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[17May2025 00:08:36.042] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 52212 bytes (in 6 string chunks with the size of 10000)
-[17May2025 00:08:36.044] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17May2025 00:08:36.052] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[17May2025 00:09:46.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:59844] logged in with entity id 103 at (229.19055140088747, 80.0, -287.82303003248296)
-[17May2025 00:09:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
-[17May2025 00:09:47.113] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
-[17May2025 00:09:47.114] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
-[17May2025 00:09:47.177] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
-[17May2025 00:09:47.178] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 00:09:48.895] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/164, l='ServerLevel[world]', x=170.19, y=91.00, z=-277.47]
-[17May2025 00:09:55.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
-[17May2025 00:09:56.129] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
-[17May2025 00:09:56.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
-[17May2025 00:36:32.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1396, l='ServerLevel[world]', x=170.43, y=88.75, z=-290.30] died, message: 'Leatherworker was slain by Zombie'
-[17May2025 00:53:38.347] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 01:25:46.671] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 01:47:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[17May2025 01:47:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: set time night<--[HERE]
-[17May2025 01:47:41.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Disconnected
-[17May2025 01:47:41.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
-[17May2025 01:47:41.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
-[17May2025 01:47:41.013] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
-[17May2025 01:47:41.063] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[17May2025 01:48:27.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:60129] logged in with entity id 14251 at (196.0489297940386, 82.0, -287.8280416548356)
-[17May2025 01:48:27.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
-[17May2025 01:48:27.996] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
-[17May2025 01:48:27.997] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
-[17May2025 01:48:27.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
-[17May2025 01:48:27.998] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 01:48:42.202] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 01:48:48.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
-[17May2025 01:48:49.717] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 01:48:57.212] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 01:49:03.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
-[17May2025 01:49:04.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
-[17May2025 01:49:04.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
-[17May2025 01:49:13.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Timed out
-[17May2025 01:49:13.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
-[17May2025 01:49:13.267] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
-[17May2025 01:49:13.268] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
-[17May2025 01:49:30.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:60132] logged in with entity id 14620 at (196.0489297940386, 82.0, -287.8280416548356)
-[17May2025 01:49:30.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
-[17May2025 01:49:30.915] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
-[17May2025 01:49:30.916] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
-[17May2025 01:49:30.920] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
-[17May2025 01:49:30.921] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 01:49:31.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[17May2025 01:49:37.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
-[17May2025 01:49:38.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
-[17May2025 01:49:38.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
-[17May2025 01:51:11.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
-[17May2025 01:53:45.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
-[17May2025 01:53:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: time ser day<--[HERE]
-[17May2025 01:53:51.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[17May2025 02:17:05.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka was slain by Zombie
-[17May2025 02:17:05.616] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Taokaka with unique ID travelersbackpack.standard_17.05.2025-02.17.05.dat
-[17May2025 02:17:05.618] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 241 Y: 77.9375 Z: -313
-[17May2025 02:17:29.161] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 02:17:36.584] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 02:17:44.092] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 02:17:52.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Timed out
-[17May2025 02:17:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
-[17May2025 02:17:52.107] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
-[17May2025 02:17:52.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
-[17May2025 02:19:01.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taokaka[/100.96.180.99:60235] logged in with entity id 18407 at (-8.5, 86.0, 5.5)
-[17May2025 02:19:01.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka joined the game
-[17May2025 02:19:01.478] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taokaka (18)
-[17May2025 02:19:01.479] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taokaka
-[17May2025 02:19:01.509] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was loaded
-[17May2025 02:19:01.509] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 02:19:03.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[17May2025 02:19:15.298] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 02:19:22.792] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Taokaka]
-[17May2025 02:19:25.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
-[17May2025 02:19:26.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a83ff7d6-490d-3f17-bd8c-e87b192d7b64
-[17May2025 02:19:26.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Taokaka (a83ff7d6-490d-3f17-bd8c-e87b192d7b64) successfully connected to voice chat
-[17May2025 02:23:33.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taokaka lost connection: Disconnected
-[17May2025 02:23:33.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taokaka left the game
-[17May2025 02:23:33.510] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a83ff7d6-490d-3f17-bd8c-e87b192d7b64 was unloaded
-[17May2025 02:23:33.511] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taokaka
-[17May2025 02:23:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[17May2025 02:23:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[17May2025 02:23:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[17May2025 02:23:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[17May2025 02:23:42.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17May2025 02:23:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[17May2025 02:23:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17May2025 02:23:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
-[17May2025 02:23:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
-[17May2025 02:23:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
-[17May2025 02:23:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17May2025 02:23:42.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
-[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
-[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
-[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17May2025 02:23:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17May2025 12:34:35.072] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[17May2025 12:34:35.076] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[17May2025 12:34:35.299] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2843 advancements
+[17May2025 12:34:35.309] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[17May2025 12:34:38.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17May2025 12:34:38.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17May2025 12:34:38.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17May2025 12:34:38.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17May2025 12:34:38.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17May2025 12:34:38.583] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17May2025 12:34:38.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17May2025 12:34:38.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17May2025 12:34:38.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17May2025 12:34:38.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17May2025 12:34:38.712] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[17May2025 12:34:38.713] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[17May2025 12:34:38.714] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[17May2025 12:34:38.720] [Server thread/INFO] [Puzzles Lib/]: Loading server config for bettertridents
+[17May2025 12:34:38.721] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for bettertridents
+[17May2025 12:34:38.722] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for bettertridents
+[17May2025 12:34:38.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17May2025 12:34:43.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17May2025 12:34:45.105] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:45.125] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:45.126] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:45.127] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:45.170] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:45.672] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:46.474] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:46.677] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:47.171] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:47.671] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:48.173] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:48.670] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 12:34:49.171] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[17May2025 12:34:49.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[17May2025 12:34:50.172] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[17May2025 12:34:50.670] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[17May2025 12:34:51.170] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[17May2025 12:34:51.595] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8426 ms
+[17May2025 12:34:51.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.902s)! For help, type "help"
+[17May2025 12:34:51.667] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17May2025 12:34:51.668] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
+[17May2025 12:34:51.673] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[17May2025 12:34:51.674] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[17May2025 12:34:51.857] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 52212 bytes (in 6 string chunks with the size of 10000)
+[17May2025 12:34:51.859] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[17May2025 12:34:51.876] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[17May2025 12:35:33.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[17May2025 12:35:33.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[17May2025 12:35:33.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[17May2025 12:35:33.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[17May2025 12:35:33.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[17May2025 12:35:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[17May2025 12:35:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[17May2025 12:35:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[17May2025 12:35:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[17May2025 12:35:33.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[17May2025 12:35:33.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[17May2025 12:35:33.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[17May2025 12:35:33.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[17May2025 12:35:33.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[17May2025 12:35:33.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[17May2025 12:35:33.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[17May2025 12:35:33.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[17May2025 12:35:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[17May2025 12:35:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[17May2025 12:35:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[17May2025 12:35:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[17May2025 12:35:33.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[17May2025 12:35:33.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tfEnforcedProgression|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[17May2025 12:35:33.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[17May2025 12:35:33.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[17May2025 12:35:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[17May2025 12:35:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[17May2025 12:35:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[17May2025 12:35:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[17May2025 12:35:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[17May2025 12:35:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[17May2025 12:35:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[17May2025 12:35:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[17May2025 12:35:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[17May2025 12:35:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[17May2025 12:35:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[17May2025 12:35:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[17May2025 12:35:33.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[17May2025 12:35:33.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[17May2025 12:35:33.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[17May2025 12:35:33.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[17May2025 12:35:33.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[17May2025 12:35:33.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[17May2025 12:35:33.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[17May2025 12:35:33.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[17May2025 12:35:33.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[17May2025 12:35:33.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[17May2025 12:35:33.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[17May2025 12:35:33.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[17May2025 12:35:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[17May2025 12:35:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[17May2025 12:35:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[17May2025 12:35:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[17May2025 12:35:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[17May2025 12:35:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[17May2025 12:35:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[17May2025 12:35:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[17May2025 12:35:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[17May2025 12:35:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[17May2025 12:35:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[17May2025 12:35:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[17May2025 12:35:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[17May2025 12:35:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[17May2025 12:35:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[17May2025 12:35:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[17May2025 12:35:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[17May2025 12:35:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[17May2025 12:35:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[17May2025 12:35:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[17May2025 12:35:33.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[17May2025 12:35:33.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[17May2025 12:35:33.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[17May2025 12:35:33.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[17May2025 12:35:33.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[17May2025 12:35:33.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[17May2025 12:35:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[17May2025 12:35:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[17May2025 12:35:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[17May2025 12:35:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[17May2025 12:35:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /balm (dev|export)
+[17May2025 12:35:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bookshelf (font|hand)
+[17May2025 12:35:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /configure_update <id> (list|inspect|accept|reject)
+[17May2025 12:35:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[17May2025 12:35:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[17May2025 12:35:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /twilightforest [center|conquer|genbook|info|biomepng|shield]
+[17May2025 12:35:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tf -> twilightforest
+[17May2025 12:35:33.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tffeature -> twilightforest
+[17May2025 12:35:33.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tb (access|restore|remove|clear|unpack)
+[17May2025 12:35:33.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /parcool limitation (get|set|enable|disable|delete)
+[17May2025 12:35:33.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restore <target> <death_id> (replace|add)
+[17May2025 12:35:33.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restoreinventory -> restore
+[17May2025 12:35:33.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /voicechat [help|test|invite|join|leave]
+[17May2025 12:35:51.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17May2025 12:35:52.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17May2025 12:35:52.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17May2025 12:35:52.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17May2025 12:35:52.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17May2025 12:35:52.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[17May2025 12:35:52.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17May2025 12:35:52.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17May2025 12:35:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[17May2025 12:35:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[17May2025 12:35:52.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[17May2025 12:35:52.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17May2025 12:35:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[17May2025 12:35:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17May2025 12:35:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17May2025 12:35:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[17May2025 12:35:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[17May2025 12:35:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[17May2025 12:35:52.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
